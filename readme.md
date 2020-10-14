@@ -5,7 +5,7 @@ a multi-callback utility bikeshed
 
 ## install
 ```sh
-npm install michaelrhodes/run
+npm install https://pkg.mkr.sx/run/1.0.0.tgz
 ```
 
 ## use

@@ -1,6 +1,6 @@
 {
   "name": "run",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "CC0-1.0",
   "devDependencies": {
