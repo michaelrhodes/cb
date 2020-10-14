@@ -1,0 +1,12 @@
+{
+  "name": "run",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "dexy": "https://pkg.mkr.sx/dexy/1.2.1.tgz"
+  },
+  "scripts": {
+    "test": "dexy test/*"
+  }
+}
