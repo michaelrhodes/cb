@@ -1,0 +1,1 @@
+!function(n){"module"in this?module.exports=n():runSeries=n()}(function(){return function(n,l){var t=this,i=n.length,u=0,e=[];function c(){n[u++].call(t,o)}function o(n){if(n)return l&&l.call(t,n);e.push(arguments.length>2?[].slice.call(arguments,1):arguments[1]),u===i?l&&l.apply(t,[n,e]):c()}c()}});
